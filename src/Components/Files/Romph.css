@@ -1,5 +1,20 @@
 .body
 {
-    font-family:  Georgia, serif;
-    
+    font-family:  Poopins;
+}
+.Footer{
+    color:white;
+    display:flex;
+    text-align: center;
+    gap: 14%;
+    background: rgb(87, 87, 87);
+}
+.Fcol{
+   
+    margin-left: 140px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.Col p{
+    font-size: 10;
 }
